@@ -1,10 +1,3 @@
-
-@font-face {
-	font-family: 'Distant Galaxy';
-	src: url('/web/20190517150633im_/https://cdn2.editmysite.com/fonts/Distant_Galaxy/regular.eot');
-	src: url('/web/20190517150633im_/https://cdn2.editmysite.com/fonts/Distant_Galaxy/regular.eot') format('embedded-opentype'),
-			url('/web/20190517150633im_/https://cdn2.editmysite.com/fonts/Distant_Galaxy/regular.ttf') format('truetype');
-}
 @font-face {
   font-family: 'Montserrat';
   src: url('Montserrat-Black.eot');
@@ -24,6 +17,16 @@
   font-weight: normal;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'Distant_Galaxy';
+  src: url('Distant_Galaxy.eot');
+  src: url('Distant_Galaxy.eot') format('embedded-opentype'),
+       url('Distant_Galaxy.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
 
 /*
      FILE ARCHIVED ON 15:06:33 May 17, 2019 AND RETRIEVED FROM THE
