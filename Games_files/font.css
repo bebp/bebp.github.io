@@ -5,6 +5,25 @@
 	src: url('/web/20190517150633im_/https://cdn2.editmysite.com/fonts/Distant_Galaxy/regular.eot') format('embedded-opentype'),
 			url('/web/20190517150633im_/https://cdn2.editmysite.com/fonts/Distant_Galaxy/regular.ttf') format('truetype');
 }
+@font-face {
+  font-family: 'Montserrat';
+  src: url('Montserrat-Black.eot');
+  src: url('Montserrat-Black.eot?') format('embedded-opentype'),
+       url('Montserrat-Black.svg') format('svg'),
+       url('Montserrat-Black.ttf') format('truetype'),
+       url('Montserrat-Black.woff') format('woff'),
+       url('Montserrat-Black.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'DistantGalaxy';
+  src: url('DistantGalaxy.svg#DistantGalaxy') format('svg'),
+       url('DistantGalaxy.ttf') format('truetype'),
+       url('DistantGalaxy.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 
 /*
      FILE ARCHIVED ON 15:06:33 May 17, 2019 AND RETRIEVED FROM THE
