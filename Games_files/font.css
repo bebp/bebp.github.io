@@ -18,7 +18,7 @@
 }
 @font-face {
   font-family: 'DistantGalaxy';
-  src: url('DistantGalaxy.svg#DistantGalaxy') format('svg'),
+  src: url('DistantGalaxy.svg') format('svg'),
        url('DistantGalaxy.ttf') format('truetype'),
        url('DistantGalaxy.woff') format('woff');
   font-weight: normal;
