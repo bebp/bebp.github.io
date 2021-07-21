@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'DistantGalaxy';
+  src: url('DistantGalaxy.svg#DistantGalaxy') format('svg'),
+       url('DistantGalaxy.ttf') format('truetype'),
+       url('DistantGalaxy.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Distant_Galaxy';
+  src: url('Distant_Galaxy.eot');
+  src: url('Distant_Galaxy.eot?#iefix') format('embedded-opentype'),
+       url('Distant_Galaxy.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
